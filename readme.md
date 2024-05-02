@@ -15,7 +15,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn
 ## Usage
 Clone the repository, navigate to the directory containing the project, and run the Jupyter notebooks:
 ```bash
-git clone https://github.com/your-github-username/ecommerce-price-prediction.git
+git clone https://github.com/eliasedwin7/EcommercePricePrediction.git
 cd ecommerce-price-prediction
 jupyter notebook
 ```
